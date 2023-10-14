@@ -1,0 +1,18 @@
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+p {
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#btn {
+    padding: 5px;
+    border-radius: 5px;
+}
